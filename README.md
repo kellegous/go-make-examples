@@ -42,7 +42,7 @@ Place a link-reference comment immediately above the code block you want filled 
     [example]: # "example_test.go:ExampleConn_SendTextMessage"
 
     ```go
-    // filled in by update-readme from example_test.go
+    // filled in by go-make-examples from example_test.go
     ```
 
 | Ref format           | What gets embedded                                                     |
